@@ -8,8 +8,21 @@
     "cam-nang/chon-ca-phe-pha-phin.html",
     "cong-cu/cms-wordpress.html"
   ],
-  "built": "2026-09-29",
+  "built": "2026-10-06",
   "url": "https://lethanhtu196tt-svg.github.io",
-  "status": "published with GitHub Pages"
+  "status": "published with GitHub Pages",
+  "seo_plan": {
+    "audience": "Người mới chọn hạt và pha cà phê tại nhà",
+    "clusters": [
+      "Pha chế",
+      "Chọn hạt",
+      "Cẩm nang",
+      "Góc CMS"
+    ],
+    "intents": [
+      "Informational",
+      "Navigational",
+      "Transactional"
+    ]
+  }
 }
-
