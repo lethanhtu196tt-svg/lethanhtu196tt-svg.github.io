@@ -28,3 +28,9 @@ Mở `index.html` trong trình duyệt. Các liên kết nội bộ dùng đư�
 ## CMS/hosting
 
 Bài thực hành chọn Publii + GitHub Pages. Bản triển khai hiện là website HTML/CSS tĩnh; nội dung chưa được nhập hoặc đồng bộ từ ứng dụng Publii. Website này không chạy trên WordPress; logo WordPress chỉ minh họa phương án CMS được so sánh.
+
+
+## Hướng dẫn cà phê tại nhà
+
+- [Cách pha phin cà phê tại nhà](https://lethanhtu196tt-svg.github.io/huong-dan/pha-phin-ca-phe.html)
+- [Arabica và Robusta: cách chọn hạt theo khẩu vị](https://lethanhtu196tt-svg.github.io/hat-ca-phe/arabica-va-robusta.html)
